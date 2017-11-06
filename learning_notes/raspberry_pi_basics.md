@@ -4,8 +4,8 @@
 
 - Get a case to protect it
 
-- Download OS image onto the SD card
-    * Use at least a 4GB SD
+- Download OS image onto SD card
+    * Use at least a 4GB micro SD
     * Download this formatter: https://etcher.io/
     * Download and unzip image (this might take some time): https://www.raspberrypi.org/downloads/raspbian/
     * Start Etcher, select image and select SD card
