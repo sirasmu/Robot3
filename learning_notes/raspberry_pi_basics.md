@@ -6,10 +6,8 @@
 
 - Download software onto the SD card
     * Use at least a 4GB SD
-    * NOOBS
-    * Formatter for SD card
-    * Run formatter
-    * Format SD?
-    * Put NOOB files on SD with formatter????
-    * NOOB will allow you to choose OS
+    * Download this formatter: https://etcher.io/
+    * Download and unzip image (this might take some time): https://www.raspberrypi.org/downloads/raspbian/
+    * Start Etcher, select image and select SD card
+    * Press flash within Etcher
 
