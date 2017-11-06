@@ -4,7 +4,7 @@
 
 - Get a case to protect it
 
-- Download software onto the SD card
+- Download OS image onto the SD card
     * Use at least a 4GB SD
     * Download this formatter: https://etcher.io/
     * Download and unzip image (this might take some time): https://www.raspberrypi.org/downloads/raspbian/
